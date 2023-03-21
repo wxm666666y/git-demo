@@ -3,4 +3,4 @@ hello world! hello git! version 3
 hello world! hello git! fix finish
 hello world! hello git! master test
 hello world! hello git! hot-fix test
-hello world! hellow git!
+hello world! hello git!
